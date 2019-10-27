@@ -1,0 +1,2 @@
+# lazy
+avoid hassles
